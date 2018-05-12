@@ -1,0 +1,31 @@
+_repo: '---_25160'
+_version: 0.1.0
+alternative_title: San Zi Jing
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wang, Yinglin
+    aliases:
+    - 王應麟
+    - Wang, Bohou
+    - 王伯厚
+    birthdate: 1223
+    deathdate: 1296
+    gutenberg_agent_id: '31114'
+    url: http://www.gutenberg.org/2009/agents/31114
+description: ''
+gutenberg_issued: '2008-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25160'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese language -- Readers'
+title: 三字經
+url: http://www.gutenberg.org/ebooks/25160
